@@ -7,7 +7,7 @@
 # and could be a lot more elegant. Also, the output format is pretty
 # simple too.
 #
-# Dave Pearson <davep@hagbard.demon.co.uk>
+# Dave Pearson <davep@davep.org>
 #
 # Revision History
 # ================

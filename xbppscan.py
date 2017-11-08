@@ -9,7 +9,7 @@
 # Note that for this script to work you also need csyScan.py in your python
 # LIB path.
 #
-# Dave Pearson <davep@hagbard.demon.co.uk>
+# Dave Pearson <davep@davep.org>
 #
 # Revision History
 # ================

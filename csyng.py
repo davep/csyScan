@@ -3,7 +3,7 @@
 # csyNG - Write a simple NG source file documenting a Class(y) class
 #         hierarchy.
 #
-# Dave Pearson <davep@hagbard.demon.co.uk>
+# Dave Pearson <davep@davep.org>
 #
 # Revision History
 # ================
